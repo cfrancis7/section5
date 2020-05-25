@@ -1,0 +1,170 @@
+body {
+  color: #142850;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+}
+
+h1 {
+  color: #222831;
+  font-size: 5.625rem;
+  margin-top: 20px auto 0 auto;
+  font-family: 'Audiowide', cursive;
+  font-family: 'Bebas Neue', cursive;
+}
+
+h2 {
+  color: #222831;
+  line-height: 2;
+  font-size: 1.5rem;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #222831;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+
+  border: dotted #303960 6px;
+  border-bottom: none;
+  width: 20%;
+  margin: 100px auto;
+}
+
+a {color: #11999e;
+  font-family: 'Montserrat' , sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+
+}
+
+a:hover {
+color: #d92027;
+
+}
+
+.top-container {
+
+  position: relative;
+  padding-top: 20px;
+background-image: url(https://i.pinimg.com/originals/a5/59/6f/a5596ffd4897b35688d3b3b882d7919d.jpg);
+background-size: 1400px 700px;
+
+
+
+
+}
+
+.middle-container {
+
+margin: 100px 0;
+}
+
+.bottom-container {
+background-color: #88e1f2;
+padding: 50px 0 20px;
+
+}
+
+
+
+
+
+.stu {
+  text-decoration: underline;
+}
+.stuexp {
+  text-decoration: underline;
+}
+
+
+
+img {
+
+    border-radius: 100%;
+}
+
+
+
+.exp-img {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.student {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+
+
+.move {
+  float: left;
+    width: 25%;
+    margin-left: 30px;
+}
+
+
+
+.skill-test {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.intro {
+width: 30%;
+margin: auto;
+
+}
+
+.Statement {
+width: 30%;
+margin: auto;
+
+}
+
+.contact-message {
+
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+	background-color:#7892c2;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.btn:hover {
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright {
+color: #424874;
+font-size: 0.75rem;
+padding: 20px 0;
+
+}
